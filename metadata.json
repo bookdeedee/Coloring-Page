@@ -1,0 +1,7 @@
+{
+  "name": "Coloring Page Creator",
+  "description": "An AI-powered app to turn photos into coloring book pages.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
